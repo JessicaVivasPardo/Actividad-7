@@ -1,0 +1,53 @@
+.icon {
+    height:65px;
+    width:50px;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(31, 164, 182);
+}
+.carousel slide {
+    margin-top: 3;
+}
+.imgSlider{
+    display: block;
+    height: 850px;
+    width: 100%;
+}
+.tituloIML {
+    margin-top: 3;
+    color: rgb(31, 164, 182);
+    text-align: center;
+    font-size: 50px;
+}
+.card{
+    margin: 10px;
+    width: 18rem;
+}
+.card-body{
+    background-color:  rgb(31, 164, 182);
+}
+.card-link{
+    color: white;
+}
+.card-text{
+    font-size: 20px;
+}
+form{
+    margin: 50px;
+    background-color: white;
+}
+button{
+    
+    padding: 5px;
+}
+.page-footer{
+    background-color: rgb(31, 164, 182);
+    margin-top: 30px;
+    color: white;
+}
+.listaFormulario li a{
+
+    color: white; 
+    text-decoration: none;
+}

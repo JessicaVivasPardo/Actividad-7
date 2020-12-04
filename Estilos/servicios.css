@@ -1,0 +1,71 @@
+.icon {
+    height:65px;
+    width:50px;
+}
+.dropdown-item:hover{
+    background-color: rgb(31, 164, 182);
+}
+.tituloNosotros{
+    margin-top: 25px;
+    color: rgb(31, 164, 182);
+    text-align: center;
+}
+.card-header{
+    background-color: rgb(31, 164, 182);
+}
+#boton{
+    text-decoration: none; 
+    color:white;
+}
+.parrafosContenido {
+    text-align: justify;
+}
+.tituloGaleria {
+    text-align: center;
+    color: rgb(31, 164, 182);
+}
+
+.imagenSlider{
+    display: block;
+    width: 100%;
+    height: 700px;
+}
+.tituloServicios{
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(31, 164, 182);
+    
+}
+#videoServicios{
+    margin-top: 50px;
+    width: 400px;
+    height: 500px;
+    
+}
+#contacto{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+#cardContacto {
+    margin-bottom: 35px;
+    padding: 20px;
+    background-color: white;
+    max-width: 340px;
+}
+.page-footer{
+    background-color: rgb(31, 164, 182);
+    margin-top: 35px;
+    
+}
+.page-footer{
+    background-color: rgb(31, 164, 182);
+    margin-top: 30px;
+    color: white;
+}
+.listaFormulario li a{
+
+    color: white; 
+    text-decoration: none;
+}
+
